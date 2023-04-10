@@ -1,16 +1,8 @@
-# jastippro
+jastippro
 
-A new Flutter project.
+aplikasi penyedia jasa dan pesan antar makanan
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+kelompok :
+1. Naufal Al Munawar (2103022)
+2. Dodik Wahyu Gunawan (2103008)
+3. Fahreza Aulia Hakim (2103007)
